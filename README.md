@@ -1,5 +1,6 @@
 # UH23
 ## `75th UmojaHack Africa 2023 Competetion`
+### Intermediate challenge
 
 This repo shows the steps and methods I used while participating UMOJA HACK Africa Competetion in 2023
 
