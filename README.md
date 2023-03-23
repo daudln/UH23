@@ -19,7 +19,7 @@ For this challenge, I used a combination of data exploration, feature engineerin
 
     1. Data cleaning and exploration to understand the structure and characteristics of the dataset.
     2. Feature engineering to extract meaningful features from both the network-based and host-based data.
-    3.  Model selection and hyperparameter tuning to build the best-performing model for this task.
+    3. Model selection and hyperparameter tuning to build the best-performing model for this task.
     4. Evaluation of the model's performance using metrics such as accuracy, precision, recall, and F1 score.
 
 
