@@ -25,5 +25,5 @@ For this challenge, I used a combination of data exploration, feature engineerin
 
 # Results
 
-My model achieved a public score of 0.958540630 (95.8540%) and a private score of 0.965223562 (96.5223%) on the leaderboard, placing me in the <a href="https://zindi.africa/competitions/umojahack-africa-2023-intermediate-challenge/leaderboard?page=2&jumptouser=true">75th position</a> out of 247 participants. 
+My model achieved a public score of 0.958540630 (95.8540%) and a private score of 0.965223562 (96.5223%) on the leaderboard, placing me in the <a href="https://zindi.africa/competitions/umojahack-africa-2023-intermediate-challenge/leaderboard?page=2&jumptouser=true" target="_blank">75th position</a> out of 247 participants. 
 Although I did not achieve a top ranking, I am proud of my efforts and the knowledge and experience I gained from participating in this challenge.
